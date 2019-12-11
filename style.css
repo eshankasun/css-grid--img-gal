@@ -1,11 +1,11 @@
 body {
-  margin: 0px;
+  margin: 10px;
   background-color: whitesmoke;
 }
 
 .container {
   display: grid;
-  grid-gap: 100px;
+  grid-gap: 10px;
   grid-template-columns: 1fr 1fr 1fr 1fr;
   justify-items: center;
 }
